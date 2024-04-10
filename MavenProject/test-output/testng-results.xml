@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-10T14:03:14 IST" name="Default suite" finished-at="2024-04-10T14:04:17 IST" duration-ms="63216">
+    <groups>
+    </groups>
+    <test started-at="2024-04-10T14:03:14 IST" name="Default test" finished-at="2024-04-10T14:04:17 IST" duration-ms="63216">
+      <class name="NOP_Commerce_Test.NOP_Commerce_Test">
+        <test-method is-config="true" signature="report()[pri:0, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94]" started-at="2024-04-10T14:03:14 IST" name="report" finished-at="2024-04-10T14:03:14 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="Base()[pri:0, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94]" started-at="2024-04-10T14:03:14 IST" name="Base" finished-at="2024-04-10T14:03:29 IST" duration-ms="14929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Base -->
+        <test-method signature="Add_Catagory()[pri:1, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94]" started-at="2024-04-10T14:03:29 IST" name="Add_Catagory" finished-at="2024-04-10T14:03:43 IST" duration-ms="13823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Catagory -->
+        <test-method is-config="true" signature="Finish(org.testng.ITestResult)[pri:0, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94]" started-at="2024-04-10T14:03:43 IST" name="Finish" finished-at="2024-04-10T14:03:43 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_Catagory status=SUCCESS method=NOP_Commerce_Test.Add_Catagory()[pri:1, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method signature="Add_Customer()[pri:2, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94]" started-at="2024-04-10T14:03:43 IST" name="Add_Customer" finished-at="2024-04-10T14:04:15 IST" duration-ms="31676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Customer -->
+        <test-method is-config="true" signature="Finish(org.testng.ITestResult)[pri:0, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94]" started-at="2024-04-10T14:04:15 IST" name="Finish" finished-at="2024-04-10T14:04:15 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Add_Customer status=SUCCESS method=NOP_Commerce_Test.Add_Customer()[pri:2, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:NOP_Commerce_Test.NOP_Commerce_Test@316bcf94]" started-at="2024-04-10T14:04:15 IST" name="quit" finished-at="2024-04-10T14:04:17 IST" duration-ms="2403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- NOP_Commerce_Test.NOP_Commerce_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
